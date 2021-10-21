@@ -1,10 +1,13 @@
-Git and Git Flow Cheat Sheet [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
-===============
-<hr>
+<h2 align="center">
+    Git and Git Flow Cheat Sheet
+    <img src="https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg" alt="Awesome" />
+</h2>
+
 <p align="center">
     <img alt="Git" src="./Img/git-logo.png" height="190" width="455">
 </p>
-<hr>
+
+---
 
 # Other Available Languages:
 
